@@ -14,6 +14,7 @@
 - [Homework (Week 8-9)](https://grwei.github.io/SJTU_2021-2022-2_STAT6001/wk8-9_危国锐_120034910021.pdf) (2022-04-27)
 - [Homework (Week 10)](https://grwei.github.io/SJTU_2021-2022-2_STAT6001/wk10_危国锐_120034910021.pdf) (2022-05-05)
 - [Homework (Week 11)](https://grwei.github.io/SJTU_2021-2022-2_STAT6001/wk11_危国锐_120034910021.pdf) (2022-05-12)
+- [Homework (Week 16)](https://grwei.github.io/SJTU_2021-2022-2_STAT6001/wk16_危国锐_120034910021.pdf) (2022-06-14)
 
 ## Contact information
 
